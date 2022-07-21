@@ -13,14 +13,12 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 25,Galle,LK,79.11,overcast clouds,6.0367,80.217,Galle
 29,Vila Franca Do Campo,PT,78.19,broken clouds,37.7167,-25.4333,Vila Franca do Campo
 31,Bengkulu,ID,77.22,broken clouds,-3.8004,102.2655,Bengkulu
-34,Zhanaozen,KZ,103.39,few clouds,43.3,52.8,Zhanaozen
 40,Grand-Santi,GF,85.06,broken clouds,4.25,-54.3833,Grand-Santi
 42,Kati,ML,80.01,overcast clouds,12.7441,-8.0726,Kati
 44,Butaritari,KI,79.52,light rain,3.0707,172.7902,Ukiangang
 47,Wladyslawowo,PL,95.94,clear sky,54.7909,18.4009,Wladyslawowo
 48,Georgetown,MY,84.88,few clouds,5.4112,100.3354,George Town
 49,Katsuura,JP,77.45,overcast clouds,35.1333,140.3,Katsuura
-51,Kaka,TM,106.18,clear sky,37.3482,59.6143,Kaakhka
 53,Umm Lajj,SA,87.53,clear sky,25.0213,37.2685,Umluj
 56,Mana,GF,82.17,broken clouds,5.6592,-53.7767,Mana
 60,Ribeira Grande,PT,75.6,few clouds,38.5167,-28.7,Horta
@@ -146,7 +144,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 309,Aden,YE,86.13,clear sky,12.7794,45.0367,Aden
 312,Mecca,SA,98.49,clear sky,21.4267,39.8261,Mecca
 313,Pontianak,ID,80.58,overcast clouds,-0.0333,109.3333,Pontianak
-316,Aswan,EG,105.12,clear sky,24.0934,32.907,Aswan
 319,Port Moresby,PG,78.22,scattered clouds,-9.4431,147.1797,Port Moresby
 320,Sulangan,PH,85.71,overcast clouds,11.1373,123.7228,Bantayan
 323,Kemijarvi,FI,76.35,overcast clouds,66.7131,27.4306,Kemijärvi
@@ -163,12 +160,10 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 342,Drahovo,UA,84.7,clear sky,48.2357,23.5491,Drahovo
 343,Sepuka,TZ,77.29,overcast clouds,-4.75,34.5333,Sepuka
 344,Bartica,GY,84.52,few clouds,6.4,-58.6167,Bartica
-346,Atar,MR,102.9,overcast clouds,20.5169,-13.0499,Atar
 347,Barao De Melgaco,BR,91.24,clear sky,-16.1944,-55.9675,Barão de Melgaço
 349,Bathsheba,BB,86.61,scattered clouds,13.2167,-59.5167,Wilson Hill
 350,Jalu,LY,94.1,clear sky,29.0331,21.5482,Jalu
 352,Abu Samrah,SY,92.7,clear sky,35.3029,37.1841,Suruj
-356,Guastalla,IT,100.62,clear sky,44.9132,10.6609,Guastalla
 357,Chingirlau,KZ,84.18,broken clouds,51.095,54.0814,Shyngyrlau
 358,Buchanan,LR,79.03,overcast clouds,5.8808,-10.0467,Buchanan
 360,The Valley,AI,86.09,scattered clouds,18.217,-63.0578,The Valley
@@ -183,12 +178,9 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 376,Mizdah,LY,94.84,clear sky,31.4451,12.9801,Mizdah
 377,Mexico,PH,82.11,light rain,15.0646,120.7198,San Fernando
 378,Bolobo,CD,88.79,broken clouds,-2.1667,16.2333,Bolobo
-382,Mollet Del Valles,ES,100.81,clear sky,41.5403,2.2131,Mollet del Vallès
-386,Navalmoral De La Mata,ES,102.96,clear sky,39.8916,-5.5406,Navalmoral de la Mata
 387,Komsomolskiy,UZ,99.32,clear sky,40.4272,71.7189,Fergana
 388,Masty,BY,80.29,few clouds,53.4122,24.5387,Masty
 391,Santa Rosa,PH,80.58,overcast clouds,14.3122,121.1114,Santa Rosa
-392,Tiznit,MA,105.44,scattered clouds,29.5833,-9.5,Ouijjane
 393,Tari,NG,91.65,overcast clouds,12.4086,4.4914,Kashin Zama
 396,Mahibadhoo,MV,83.43,overcast clouds,3.7833,72.9667,Omadhoo
 397,Phangnga,TH,80.64,moderate rain,8.4509,98.5298,Thai Chang
@@ -225,7 +217,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 460,Koungou,YT,78.51,broken clouds,-12.7336,45.2042,Mamoudzou
 461,Port-Gentil,GA,82.36,scattered clouds,-0.7193,8.7815,Port-Gentil
 464,Islahiye,TR,91.92,clear sky,37.025,36.6306,İslahiye
-466,Taoudenni,ML,106.63,few clouds,22.6783,-3.9836,Taoudenni
 467,Bud,US,81.75,clear sky,39.447,-86.1758,Trafalgar
 469,Seybaplaya,MX,80.06,clear sky,19.65,-90.6667,Seybaplaya
 471,Araouane,ML,99.32,scattered clouds,18.9048,-3.5265,Araouane
@@ -276,7 +267,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 563,Owase,JP,78.51,overcast clouds,34.0667,136.2,Owase
 564,San Policarpo,PH,82.38,few clouds,12.1791,125.5072,Oras
 566,Roswell,US,76.78,thunderstorm with heavy rain,34.0232,-84.3616,Roswell
-567,Dalbandin,PK,106.45,scattered clouds,28.8947,64.4101,Dalbandin
 568,Kakegawa,JP,79.02,overcast clouds,34.7667,138.0167,Kakegawa
 570,Zorgo,BF,89.2,overcast clouds,12.2489,-0.6158,Zorgo
 571,Dera Bugti,PK,93.94,overcast clouds,29.0307,69.151,Dera Bugti
@@ -284,7 +274,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 576,Kaspiysk,RU,78.98,few clouds,42.8816,47.6392,Kaspiysk
 578,Sao Gabriel Da Cachoeira,BR,80.4,broken clouds,-0.1303,-67.0892,São Gabriel da Cachoeira
 580,Dongsheng,CN,79.57,overcast clouds,39.8161,109.9776,Ordos City
-581,Mantua,IT,100.09,clear sky,45.1667,10.7833,Mantua
 587,Vazante,BR,76.6,clear sky,-17.9869,-46.9078,Vazante
 588,Kui Buri,TH,75.88,light rain,12.0828,99.8543,Kui Buri
 590,Palasa,IN,83.89,overcast clouds,18.7667,84.4167,Shivaji Nagar
@@ -309,7 +298,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 637,Hami,CN,81.12,clear sky,42.8,93.45,Hami
 638,Grafton,US,88.61,clear sky,42.207,-71.6856,Millbury
 640,Isangel,VU,75.2,few clouds,-19.55,169.2667,Isangel
-641,Tazmalt,DZ,103.5,clear sky,36.3868,4.3989,Tazmalt
 642,Bantogon,PH,78.98,moderate rain,6.5333,124.0333,Kalamansig
 643,Rovinj,HR,93.69,clear sky,45.08,13.64,Rovinj
 645,La Macarena,CO,77.22,overcast clouds,2.1837,-73.7849,La Macarena
